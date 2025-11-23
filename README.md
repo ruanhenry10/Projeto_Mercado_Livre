@@ -253,5 +253,3 @@ Este projeto demonstra:
 - Estruturação de projetos Java
 
 ---
-
-**Desenvolvido com 💙 usando Java POO**
